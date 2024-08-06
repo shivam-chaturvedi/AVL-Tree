@@ -60,8 +60,6 @@ struct Node {
 };
 ```
 
-For a complete code, refer to the [source code file](path/to/your/source/file.cpp).
-
 ## Usage in Real Life
 
 AVL Trees are widely used in various real-life applications due to their efficient operations:
@@ -78,8 +76,6 @@ To compile and run the code:
 g++ -o AVLTree AVLTree.cpp
 ./AVLTree
 ```
-
-Replace `AVLTree.cpp` with the name of your source file.
 
 ## Contact
 
